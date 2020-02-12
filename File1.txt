@@ -1,2 +1,4 @@
 Hello World
 Welcome to git
+Change 1 in file 1
+Change 2 in file 1
